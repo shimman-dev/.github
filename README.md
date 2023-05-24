@@ -1,3 +1,3 @@
-# shimman-dev
+# .github
 
-what you read before the manual
+refer to `profile/README.md` to change what appears on the org page.
